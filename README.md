@@ -97,6 +97,7 @@ betweenness_cent = nx.betweenness_centrality(G)
 # Dallas (DFW) typically shows highest values across all metrics
 print(f"Dallas Degree Centrality: {degree_cent['DFW']:.4f}")
 ```
+---
 ## 📊 Research Findings
 ### Centrality Metrics Results
 | City                | Degree | Closeness | Betweenness |
@@ -121,4 +122,81 @@ New York maintains strong Northeast Corridor connections plus Florida routes (sn
 Efficiency Implications:
 100-500 mile corridors (Northeast, Florida, California) show potential for high-speed rail alternatives.
 Airport consolidation opportunities exist in overlapping metro areas (Austin/San Antonio, Miami/Fort Lauderdale).
+
+---
+## 📁 Project Structure
+```text
+air-transport-network/
+├── CMPLXSYS 270 Final Project.py          # Main visualization script
+├── CMPLXSYS 270 Final Project data.csv     # Flight route data (100+ routes)
+├── node_coordinates.csv                     # Airport coordinates
+├── Complex Systems 270 Final.docx           # Full research paper
+├── Complexsys 270 Final Slides.pptx         # Presentation slides
+├── Complexsys 270 Research Poster.pdf       # Academic poster
+└── README.md                                # This file
+```
+---
+## 🔬 Methodology
+### Two-Layer Model Architecture
+```text
+┌─────────────────────────────────────────────────────────┐
+│  LAYER 1: Kamada-Kawai Graph (Static Network)          │
+│  • Nodes: 100+ US airports                             │
+│  • Edges: Flight routes with distance weights            │
+│  • Layout: Force-directed using geographic distances    │
+├─────────────────────────────────────────────────────────┤
+│  LAYER 2: Agent-Based Model (Dynamic Simulation)       │
+│  • Agents: Simulated aircraft/passengers                 │
+│  • Behavior: Random walk between connected nodes       │
+│  • Visualization: Animated movement patterns             │
+└─────────────────────────────────────────────────────────┘
+```
+### Technical Implementation
+Graph Construction: Directed weighted graph using NetworkX
+
+Layout Algorithm: Kamada-Kawai with distance matrix derived from route lengths
+
+Agent Simulation: Randomized agent placement on hub nodes, random neighbor selection for movement
+
+Centrality Analysis: Standard NetworkX algorithms for topological analysis
+
+---
+## ⚠️ Limitations
+**Data Scope:** Limited to 6 major hubs; excludes smaller regional airports and international routes
+
+**Spatial Distortion:** 2D force-directed graphs cannot perfectly preserve spherical Earth distances
+
+**Agent Realism:** Movement simulation does not account for temporal scaling or flight scheduling constraints
+
+**Outlier Handling:** Alaska and Hawaii positioning requires geographic compromises in the 2D layout
+
+**Static Network:** Does not incorporate real-time factors (delays, weather, seasonal variations)
+
+---
+## 🔮 Future Work
+[ ] Expand to include all domestic airports (~500 nodes)
+
+[ ] Integrate real-time delay data for dynamic congestion modeling
+
+[ ] Implement multi-layer network (airlines as different edge types)
+
+[ ] Add temporal dimension for seasonal pattern analysis
+
+[ ] Develop predictive models for hub congestion using entropy metrics
+
+[ ] Create interactive web visualization (D3.js/Plotly)
+
+---
+## 📚 Citations
+If you use this work in your research, please cite:
+
+```Bibtex
+@misc{mckenna2024airtransport,
+  title={Analyzing Air Travel in a Network Through the Lens of Sociology},
+  author={McKenna, Michael},
+  year={2024},
+  institution={University of Michigan},
+  course={CMPLXSYS 270: Agent-based Modeling}
+}
+```
 

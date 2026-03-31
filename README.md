@@ -199,4 +199,24 @@ If you use this work in your research, please cite:
   course={CMPLXSYS 270: Agent-based Modeling}
 }
 ```
+### References
 
+Guimerà, R., Mossa, S., Turtschi, A., & Amaral, L. A. N. (2005). The worldwide air transportation network: Anomalous centrality, community structure, and cities' global roles. Proceedings of the National Academy of Sciences, 102(22), 7794–7799. https://doi.org/10.1073/pnas.0407994102 
+
+Wang, Z., Wen, X., & Wu, M. (2019). Identification of Key Nodes in Aircraft State Network Based on Complex Network Theory. IEEE Access, 7, 60957–60967. https://doi.org/10.1109/ACCESS.2019.2915508 
+
+Kaziyeva, D., Stutz, P., Wallentin, G., & Loidl, M. (2023). Large-scale agent-based simulation model of pedestrian traffic flows. Computers, Environment and Urban Systems, 105, 102021. https://doi.org/10.1016/j.compenvurbsys.2023.102021
+
+Rocha, L. E. C. (2017). Dynamics of air transport networks: A review from a complex systems perspective. Chinese Journal of Aeronautics, 30(2), 469–478. https://doi.org/10.1016/j.cja.2016.12.029
+
+---
+## 🙏 Acknowledgments
+This project was developed as the final project for Complex Systems 270: Agent-based Modeling at the University of Michigan.
+
+Special thanks to:
+
+The course instructors and TAs for guidance on complex network analysis
+
+NetworkX developers for the excellent graph analysis library
+
+The Federal Aviation Administration (FAA) and OpenFlights for public flight data

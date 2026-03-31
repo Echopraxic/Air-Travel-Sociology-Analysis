@@ -60,3 +60,65 @@ The research demonstrates that Dallas (DFW) emerges as the most well-connected h
 
 ```bash
 pip install networkx matplotlib numpy pandas
+```
+---
+## 💡 Usage
+
+Basic Network Visualization
+Run the main script to generate the Kamada-Kawai graph:
+```bash
+python "CMPLXSYS 270 Final Project.py"
+```
+**This will:**
+Load flight routes from the CSV data
+Construct a directed weighted graph (100+ nodes, 200+ edges)
+Apply Kamada-Kawai layout using geographic distances
+Display the network with edge labels showing route distances
+
+### Example Output
+The visualization produces a force-directed graph showing:
+Hub nodes (JFK, ATL, ORD, DFW, DEN, LAX) as major connection points.
+Edge weights representing flight distances in miles.
+Spatial clustering reflecting geographic regions (Northeast, Southeast, Midwest, Southwest, West Coast).
+Centrality Analysis
+To analyze hub importance programmatically:
+```Python
+import networkx as nx
+
+# Load graph
+G = nx.DiGraph()
+# ... add edges ...
+
+# Calculate centrality metrics
+degree_cent = nx.degree_centrality(G)
+closeness_cent = nx.closeness_centrality(G)
+betweenness_cent = nx.betweenness_centrality(G)
+
+# Dallas (DFW) typically shows highest values across all metrics
+print(f"Dallas Degree Centrality: {degree_cent['DFW']:.4f}")
+```
+## 📊 Research Findings
+### Centrality Metrics Results
+| City                | Degree | Closeness | Betweenness |
+| ------------------- | ------ | --------- | ----------- |
+| **Dallas, TX**      | 0.84   | 0.8621    | 0.3800      |
+| **Denver, CO**      | 0.72   | 0.7813    | 0.2238      |
+| **Los Angeles, CA** | 0.72   | 0.7813    | 0.1901      |
+| **Chicago, IL**     | 0.47   | 0.6536    | 0.0722      |
+| **New York, NY**    | 0.42   | 0.6329    | 0.0867      |
+| **Atlanta, GA**     | 0.39   | 0.6211    | 0.0812      |
+
+### Key Insights
+Geographic Patterns:
+Atlanta serves the Appalachian/Piedmont region — mountain barriers make air travel essential despite short distances.
+Denver connects Rocky Mountain communities with limited ground infrastructure.
+Chicago acts as the primary East-West connector despite lower raw connectivity.
+
+Cultural Patterns:
+Los Angeles dominates Southwest travel due to Hispanic cultural ties and historical Spanish/Mexican frontier legacy.
+New York maintains strong Northeast Corridor connections plus Florida routes (snowbird migration).
+
+Efficiency Implications:
+100-500 mile corridors (Northeast, Florida, California) show potential for high-speed rail alternatives.
+Airport consolidation opportunities exist in overlapping metro areas (Austin/San Antonio, Miami/Fort Lauderdale).
+

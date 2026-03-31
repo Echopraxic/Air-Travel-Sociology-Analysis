@@ -1,0 +1,344 @@
+Departing Airport Code,Departing Airport,Arriving Airport Code,Arriving Airport,Length
+JFK,"New York, NY",PDX,"Portland, OR",2440
+JFK,"New York, NY",AZA,"Phoenix, AZ",1460
+JFK,"New York, NY",LAX,"Los Angeles, CA",2400
+JFK,"New York, NY",SFO,"San Francisco, CA",2580
+JFK,"New York, NY",SAN,"San Diego, CA",1700
+JFK,"New York, NY",DEN,"Denver, CO",1080
+JFK,"New York, NY",FLL,"Fort Lauderdale, FL",1020
+JFK,"New York, NY",MIA,"Miami, FL",1020
+JFK,"New York, NY",MCO,"Orlando, FL",950
+JFK,"New York, NY",TPA,"Tampa, FL",1000
+JFK,"New York, NY",RSW,"Fort Myers, FL",1010
+JFK,"New York, NY",PBI,"West Palm Beach, FL",1030
+JFK,"New York, NY",ATL,"Atlanta, GA",760
+JFK,"New York, NY",ORD,"Chicago, IL",720
+JFK,"New York, NY",MCI,"Kansas City, MO",1110
+JFK,"New York, NY",MSY,"New Orleans, LA",1180
+JFK,"New York, NY",IAD,Washington D.C.,230
+JFK,"New York, NY",BOS,"Boston, MA",260
+JFK,"New York, NY",DTW,"Detroit, MI",510
+JFK,"New York, NY",MSP,"Minneapolis, MN",1030
+JFK,"New York, NY",STL,"St. Louis, MO",890
+JFK,"New York, NY",LAS,"Las Vegas, NV",2240
+JFK,"New York, NY",RDU,"Raleigh-Durham, NC",540
+JFK,"New York, NY",CLE,"Cleveland, OH",430
+JFK,"New York, NY",PIT,"Pittsburgh, PA",250
+JFK,"New York, NY",ORF,"Norfolk, VA",290
+JFK,"New York, NY",PHL,"Philadelphia, PA",520
+JFK,"New York, NY",CMH,"Columbus, OH",480
+JFK,"New York, NY",DFW,"Dallas, TX",1060
+JFK,"New York, NY",IAH,"Houston, TX",680
+JFK,"New York, NY",AUS,"Austin, TX",1520
+JFK,"New York, NY",BNA,"Nashville, TN",770
+JFK,"New York, NY",IND,"Indianapolis, IN",660
+JFK,"New York, NY",CHS,"Charleston, SC",640
+JFK,"New York, NY",RIC,"Richmond, VA",290
+JFK,"New York, NY",CMH,"Columbus, OH",480
+JFK,"New York, NY",ANC,"Anchorage, AK",3380
+JFK,"New York, NY",SAV,"Savannah, GA",720
+JFK,"New York, NY",SYR,"Syracuse, NY",210
+JFK,"New York, NY",MVY,"Martha's Vineyard, MA",170
+JFK,"New York, NY",JAX,"Jacksonville, FL",830
+JFK,"New York, NY",ROC,"Rochester, NY",260
+JFK,"New York, NY",SEA,"Seattle, WA",1480
+ATL,"Atlanta, GA",ALB,"Albany, NY",850
+ATL,"Atlanta, GA",AVL,"Asheville, NC",170
+ATL,"Atlanta, GA",BWI,"Baltimore, MD",580
+ATL,"Atlanta, GA",BOS,"Boston, MA",950
+ATL,"Atlanta, GA",BUF,"Buffalo, NY",710
+ATL,"Atlanta, GA",CLT,"Charlotte, NC",230
+ATL,"Atlanta, GA",ORD,"Chicago, IL",610
+ATL,"Atlanta, GA",CVG,"Cincinnati, OH",380
+ATL,"Atlanta, GA",CLE,"Cleveland, OH",560
+ATL,"Atlanta, GA",DFW,"Dallas, TX",730
+ATL,"Atlanta, GA",DEN,"Denver, CO",1200
+ATL,"Atlanta, GA",DTW,"Detroit, MI",600
+ATL,"Atlanta, GA",FLL,"Fort Lauderdale, FL",580
+ATL,"Atlanta, GA",IAH,"Houston, TX",690
+ATL,"Atlanta, GA",MCI,"Kansas City, MO",700
+ATL,"Atlanta, GA",LAS,"Las Vegas, NV",1740
+ATL,"Atlanta, GA",MIA,"Miami, FL",560
+ATL,"Atlanta, GA",MSP,"Minneapolis, MN",910
+ATL,"Atlanta, GA",MSY,"New Orleans, LA",430
+ATL,"Atlanta, GA",SFO,"San Francisco, CA",2140
+ATL,"Atlanta, GA",MCO,"Orlando, FL",410
+ATL,"Atlanta, GA",PHL,"Philadelphia, PA",670
+ATL,"Atlanta, GA",PHX,"Phoenix, AZ",1580
+ATL,"Atlanta, GA",PIT,"Pittsburgh, PA",530
+ATL,"Atlanta, GA",RDU,"Raleigh-Durham, NC",360
+ATL,"Atlanta, GA",RIC,"Richmond, VA",360
+ATL,"Atlanta, GA",TPA,"Tampa, FL",410
+ATL,"Atlanta, GA",IAD,Washington D.C.,530
+ATL,"Atlanta, GA",SLC,"Salt Lake City, UT",1590
+ATL,"Atlanta, GA",CRW,"Charleston, WV",370
+ATL,"Atlanta, GA",LAX,"Los Angeles, CA",1950
+ATL,"Atlanta, GA",GPT,"Gulfport, MS",350
+ATL,"Atlanta, GA",STL,"St. Louis, MO",490
+ATL,"Atlanta, GA",SHV,"Shreveport, LA",550
+ATL,"Atlanta, GA",ROC,"Rochester, NY",750
+ATL,"Atlanta, GA",JAX,"Jacksonville, FL",270
+ATL,"Atlanta, GA",SBA,"Santa Barbara, CA",2020
+ATL,"Atlanta, GA",ABE,"Allentown, PA",690
+ORD,"Chicago, IL",ANC,"Anchorage, AK",2840
+ORD,"Chicago, IL",CLE,"Cleveland, OH",320
+ORD,"Chicago, IL",IAD,Washington D.C.,590
+ORD,"Chicago, IL",DFW,"Dallas, TX",800
+ORD,"Chicago, IL",MSP,"Minneapolis, MN",330
+ORD,"Chicago, IL",FLL,"Fort Lauderdale, FL",1180
+ORD,"Chicago, IL",ROC,"Rochester, NY",530
+ORD,"Chicago, IL",MKE,"Milwaukee, WI",70
+ORD,"Chicago, IL",PIT,"Pittsburgh, PA",410
+ORD,"Chicago, IL",RDU,"Raleigh-Durham, NC",650
+ORD,"Chicago, IL",SDF,"Louisville, KY",290
+ORD,"Chicago, IL",SMF,"Sacramento, CA",1780
+ORD,"Chicago, IL",STL,"St. Louis, MO",260
+ORD,"Chicago, IL",PDX,"Portland, OR",1740
+ORD,"Chicago, IL",SEA,"Seattle, WA",1720
+ORD,"Chicago, IL",SFO,"San Francisco, CA",1850
+ORD,"Chicago, IL",LAX,"Los Angeles, CA",1750
+ORD,"Chicago, IL",BOI,"Boise, ID",1430
+ORD,"Chicago, IL",AUS,"Austin, TX",980
+ORD,"Chicago, IL",BWI,"Baltimore, MD",620
+ORD,"Chicago, IL",BOS,"Boston, MA",870
+ORD,"Chicago, IL",DEN,"Denver, CO",890
+ORD,"Chicago, IL",DSM,"Des Moines, IA",300
+ORD,"Chicago, IL",DTW,"Detroit, MI",230
+ORD,"Chicago, IL",RSW,"Fort Myers, FL",1120
+ORD,"Chicago, IL",IAH,"Houston, TX",930
+ORD,"Chicago, IL",MCI,"Kansas City, MO",400
+ORD,"Chicago, IL",OMA,"Omaha, NE",420
+ORD,"Chicago, IL",BNA,"Nashville, TN",410
+ORD,"Chicago, IL",MIA,"Miami, FL",1200
+ORD,"Chicago, IL",PHL,"Philadelphia, PA",680
+ORD,"Chicago, IL",RNO,"Reno, NV",1670
+ORD,"Chicago, IL",SLC,"Salt Lake City, UT",1250
+ORD,"Chicago, IL",SAT,"San Antonio, TX",1040
+ORD,"Chicago, IL",SAN,"San Diego, CA",1720
+ORD,"Chicago, IL",SJU,"San Juan, PR",2070
+ORD,"Chicago, IL",TUS,"Tucson, AZ",1440
+ORD,"Chicago, IL",PBI,"Palm Beach, FL",1150
+ORD,"Chicago, IL",ABQ,"Albuquerque, NM",1120
+ORD,"Chicago, IL",FSD,"Sioux Falls, SD",460
+ORD,"Chicago, IL",ATW,"Appleton, WI",160
+ORD,"Chicago, IL",BDL,"Hartford, CT",780
+ORD,"Chicago, IL",JAX,"Jacksonville, FL",870
+ORD,"Chicago, IL",ABE,"Allentown, PA",650
+ORD,"Chicago, IL",FAR,"Fargo, ND",560
+DFW,"Dallas, TX",PDX,"Portland, OR",1610
+DFW,"Dallas, TX",SEA,"Seattle, WA",1660
+DFW,"Dallas, TX",ALB,"Albany, NY",1430
+DFW,"Dallas, TX",ABQ,"Albuquerque, NM",570
+DFW,"Dallas, TX",AMA,"Amarillo, TX",310
+DFW,"Dallas, TX",AVL,"Asheville, NC",850
+DFW,"Dallas, TX",AUS,"Austin, TX",780
+DFW,"Dallas, TX",BFL,"Bakersfield, CA",1270
+DFW,"Dallas, TX",BWI,"Baltimore, MD",1220
+DFW,"Dallas, TX",BHM,"Birmingham, AL",1220
+DFW,"Dallas, TX",BOI,"Boise, ID",1270
+DFW,"Dallas, TX",BOS,"Boston, MA",1560
+DFW,"Dallas, TX",CID,"Cedar Rapids, IA",690
+DFW,"Dallas, TX",CHS,"Charleston, SC",990
+DFW,"Dallas, TX",CLT,"Charlotte, NC",940
+DFW,"Dallas, TX",CVG,"Cincinnati, OH",810
+DFW,"Dallas, TX",CLE,"Cleveland, OH",1020
+DFW,"Dallas, TX",DAY,"Dayton, OH",860
+DFW,"Dallas, TX",DEN,"Denver, CO",640
+DFW,"Dallas, TX",DSM,"Des Moines, IA",630
+DFW,"Dallas, TX",VPS,"Destin, FL",640
+DFW,"Dallas, TX",DTW,"Detroit, MI",990
+DFW,"Dallas, TX",EGE,"Vail, CO",720
+DFW,"Dallas, TX",ELP,"El Paso, TX",550
+DFW,"Dallas, TX",EUG,"Eugene, OR",1600
+DFW,"Dallas, TX",XNA,"Fayetteville, AR",280
+DFW,"Dallas, TX",FAR,"Fargo, ND",970
+DFW,"Dallas, TX",FLL,"Fort Lauderdale, FL",1120
+DFW,"Dallas, TX",RSW,"Fort Myers, FL",1020
+DFW,"Dallas, TX",FAT,"Fresno, CA",1310
+DFW,"Dallas, TX",GSO,"Greensboro, NC",1000
+DFW,"Dallas, TX",MDT,"Harrisburg, PA",1230
+DFW,"Dallas, TX",BDL,"Hartford, CT",1470
+DFW,"Dallas, TX",HNL,"Honolulu, HI",3780
+DFW,"Dallas, TX",IAH,"Houston, TX",230
+DFW,"Dallas, TX",IND,"Indianapolis, IN",760
+DFW,"Dallas, TX",OGG,"Kahului, HI",3700
+DFW,"Dallas, TX",MCI,"Kansas City, MO",460
+DFW,"Dallas, TX",TYS,"Knoxville, TN",770
+DFW,"Dallas, TX",LAS,"Las Vegas, NV",1050
+DFW,"Dallas, TX",LAX,"Los Angeles, CA",1230
+DFW,"Dallas, TX",LIT,"Little Rock, AR",300
+DFW,"Dallas, TX",MSN,"Madison, WI",820
+DFW,"Dallas, TX",MEM,"Memphis, TN",430
+DFW,"Dallas, TX",MIA,"Miami, FL",1120
+DFW,"Dallas, TX",MKE,"Milwaukee, WI",850
+DFW,"Dallas, TX",MSP,"Minneapolis, MN",850
+DFW,"Dallas, TX",BNA,"Nashville, TN",630
+DFW,"Dallas, TX",MSY,"New Orleans, LA",450
+DFW,"Dallas, TX",ORF,"Norfolk, VA",1210
+DFW,"Dallas, TX",OKC,"Oklahoma City, OK",180
+DFW,"Dallas, TX",OMA,"Omaha, NE",585
+DFW,"Dallas, TX",PSP,"Palm Springs, CA",1120
+DFW,"Dallas, TX",MCO,"Orlando, FL",980
+DFW,"Dallas, TX",PHL,"Philadelphia, PA",1300
+DFW,"Dallas, TX",PHX,"Phoenix, AZ",870
+DFW,"Dallas, TX",PIT,"Pittsburgh, PA",1070
+DFW,"Dallas, TX",RDU,"Raleigh-Durham, NC",1060
+DFW,"Dallas, TX",RNO,"Reno, NV",1340
+DFW,"Dallas, TX",RIC,"Richmond, VA",1160
+DFW,"Dallas, TX",SMF,Sacramento,1430
+DFW,"Dallas, TX",STL,"St. Louis, MO",550
+DFW,"Dallas, TX",SLC,"Salt Lake City, UT",990
+DFW,"Dallas, TX",SAF,"Santa Fe, NM",
+DFW,"Dallas, TX",SAN,"San Diego, CA",1170
+DFW,"Dallas, TX",SAT,"San Antonio, TX",250
+DFW,"Dallas, TX",SFO,"San Francisco, CA",1460
+DFW,"Dallas, TX",SJC,"San Jose, CA",1440
+DFW,"Dallas, TX",SJU,"San Juan, PR",2160
+DFW,"Dallas, TX",SBA,"Santa Barbara, CA",1310
+DFW,"Dallas, TX",SBP,"San Luis Obispo, CA",1360
+DFW,"Dallas, TX",SAV,"Savannah, GA",920
+DFW,"Dallas, TX",SEA,"Seattle, WA",1660
+DFW,"Dallas, TX",FSD,"Sioux Falls, SD",740
+DFW,"Dallas, TX",SYR,"Syracuse, NY",1340
+DFW,"Dallas, TX",TPA,"Tampa, FL",930
+DFW,"Dallas, TX",TUS,"Tucson, AZ",810
+DFW,"Dallas, TX",TUL,"Tulsa, OK",240
+DFW,"Dallas, TX",IAD,Washington D.C.,1170
+DFW,"Dallas, TX",PBI,"West Palm Beach, FL",1100
+DFW,"Dallas, TX",ICT,"Wichita, KS",330
+DFW,"Dallas, TX",JAX,"Jacksonville, FL",920
+DEN,"Denver, CO",ANC,"Anchorage, AK",2400
+DEN,"Denver, CO",ABQ,"Albuquerque, NM",350
+DEN,"Denver, CO",ABE,"Allentown, PA",1540
+DEN,"Denver, CO",ATW,"Appleton, WI",880
+DEN,"Denver, CO",AVL,"Asheville, NC",1250
+DEN,"Denver, CO",AUS,"Austin, TX",780
+DEN,"Denver, CO",CID,"Cedar Rapids, IA",690
+DEN,"Denver, CO",CVG,"Cincinnati, OH",1070
+DEN,"Denver, CO",CLT,"Charlotte, NC",1340
+DEN,"Denver, CO",CLE,"Cleveland, OH",1200
+DEN,"Denver, CO",CMH,"Columbus, OH",1150
+DEN,"Denver, CO",DSM,"Des Moines, IA",590
+DEN,"Denver, CO",DTW,"Detroit, MI",1120
+DEN,"Denver, CO",ELP,"El Paso, TX",570
+DEN,"Denver, CO",FAR,"Fargo, ND",
+DEN,"Denver, CO",XNA,"Fayetteville, AR",
+DEN,"Denver, CO",IAH,"Houston, TX",
+DEN,"Denver, CO",EUG,"Eugene, OR",
+DEN,"Denver, CO",FLL,"Fort Lauderdale, FL",
+DEN,"Denver, CO",FAT,"Fresno, CA",
+DEN,"Denver, CO",GRR,"Grand Rapids, MI",
+DEN,"Denver, CO",BDL,"Hartford, CT",
+DEN,"Denver, CO",HDN,"Hayden, CO",
+DEN,"Denver, CO",IND,"Indianapolis, IN",
+DEN,"Denver, CO",MCI,"Kansas City, MO",
+DEN,"Denver, CO",TYS,"Knoxville, TN",
+DEN,"Denver, CO",LAS,"Las Vegas, NV",
+DEN,"Denver, CO",LIT,"Little Rock, AR",
+DEN,"Denver, CO",LAX,"Los Angeles, CA",
+DEN,"Denver, CO",SDF,"Louisville, KY",
+DEN,"Denver, CO",MSN,"Madison, WI",
+DEN,"Denver, CO",MEM,"Memphis, TN",
+DEN,"Denver, CO",MIA,"Miami, FL",
+DEN,"Denver, CO",MKE,"Milwaukee, WI",
+DEN,"Denver, CO",BWI,"Baltimore, MD",
+DEN,"Denver, CO",BOS,"Boston, MA",
+DEN,"Denver, CO",BOI,"Boise, ID",
+DEN,"Denver, CO",BUF,"Buffalo, NY",
+DEN,"Denver, CO",BZN,"Bozeman, MT",
+DEN,"Denver, CO",MSP,"Minneapolis, MN",
+DEN,"Denver, CO",BNA,"Nashville, TN",
+DEN,"Denver, CO",MSY,"New Orleans, LA",
+DEN,"Denver, CO",OKC,"Oklahoma City, OK",
+DEN,"Denver, CO",OMA,"Omaha, NE",
+DEN,"Denver, CO",MCO,"Orlando, FL",
+DEN,"Denver, CO",PSP,"Palm Springs, CA",
+DEN,"Denver, CO",PHL,"Philadelphia, PA",
+DEN,"Denver, CO",PHX,"Phoenix, AZ",
+DEN,"Denver, CO",PDX,"Portland, OR",
+DEN,"Denver, CO",PIT,"Pittsburgh, PA",
+DEN,"Denver, CO",RDU,"Raleigh-Durham, NC",
+DEN,"Denver, CO",RNO,"Reno, NV",
+DEN,"Denver, CO",RIC,"Richmond, VA",
+DEN,"Denver, CO",SMF,"Sacramento, CA",
+DEN,"Denver, CO",SLC,"Salt Lake City, UT",
+DEN,"Denver, CO",SAT,"San Antonio, TX",
+DEN,"Denver, CO",SAN,"San Diego, CA",
+DEN,"Denver, CO",SFO,"San Francisco, CA",
+DEN,"Denver, CO",SJC,"San Jose, CA",
+DEN,"Denver, CO",SBA,"Santa Barbara, CA",
+DEN,"Denver, CO",SBP,"San Luis Obispo, CA",
+DEN,"Denver, CO",SAF,"Santa Fe, NM",
+DEN,"Denver, CO",SHR,"Sheridan, WY",
+DEN,"Denver, CO",SHV,"Shreveport, LA",
+DEN,"Denver, CO",FSD,"Sioux Falls, SD",
+DEN,"Denver, CO",TUS,"Tucson, AZ",
+DEN,"Denver, CO",TUL,"Tulsa, OK",
+DEN,"Denver, CO",ICT,"Wichita, KS",
+LAX,"Los Angeles, CA",PDX,"Portland, OR",
+LAX,"Los Angeles, CA",BWI,"Baltimore, MD",
+LAX,"Los Angeles, CA",BUF,"Buffalo, NY",
+LAX,"Los Angeles, CA",SFO,"San Francisco, CA",
+LAX,"Los Angeles, CA",SAN,"San Diego, CA",
+LAX,"Los Angeles, CA",PHX,"Phoenix, AZ",
+LAX,"Los Angeles, CA",FLL,"Fort Lauderdale, FL",
+LAX,"Los Angeles, CA",MIA,"Miami, FL",
+LAX,"Los Angeles, CA",MCO,"Orlando, FL",
+LAX,"Los Angeles, CA",TPA,"Tampa, FL",
+LAX,"Los Angeles, CA",RIC,"Richmond, VA",
+LAX,"Los Angeles, CA",PBI,"Palm Beach, FL",
+LAX,"Los Angeles, CA",CLT,"Charlotte, NC",
+LAX,"Los Angeles, CA",CVG,"Cincinnati, OH",
+LAX,"Los Angeles, CA",MCI,"Kansas City, MO",
+LAX,"Los Angeles, CA",MSY,"New Orleans, LA",
+LAX,"Los Angeles, CA",IAD,Washington D.C.,
+LAX,"Los Angeles, CA",BOS,"Boston, MA",
+LAX,"Los Angeles, CA",DTW,"Detroit, MI",
+LAX,"Los Angeles, CA",MSP,"Minneapolis, MN",
+LAX,"Los Angeles, CA",STL,"St. Louis, MO",
+LAX,"Los Angeles, CA",LAS,"Las Vegas, NV",
+LAX,"Los Angeles, CA",RDU,"Raleigh-Durham, NC",
+LAX,"Los Angeles, CA",CLE,"Cleveland, OH",
+LAX,"Los Angeles, CA",PIT,"Pittsburgh, PA",
+LAX,"Los Angeles, CA",ORF,"Norfolk, VA",
+LAX,"Los Angeles, CA",PHL,"Philadelphia, PA",
+LAX,"Los Angeles, CA",CMH,"Columbus, OH",
+LAX,"Los Angeles, CA",IAH,"Houston, TX",
+LAX,"Los Angeles, CA",SEA,"Seattle, WA",
+LAX,"Los Angeles, CA",SLC,"Salt Lake City, UT",
+LAX,"Los Angeles, CA",ANC,"Anchorage, AK",
+LAX,"Los Angeles, CA",CID,"Cedar Rapids, IA",
+LAX,"Los Angeles, CA",CHS,"Charleston, SC",
+LAX,"Los Angeles, CA",SDF,"Louisville, KY",
+LAX,"Los Angeles, CA",SMF,"Sacramento, CA",
+LAX,"Los Angeles, CA",BOI,"Boise, ID",
+LAX,"Los Angeles, CA",AUS,"Austin, TX",
+LAX,"Los Angeles, CA",DSM,"Des Moines, IA",
+LAX,"Los Angeles, CA",OMA,"Omaha, NE",
+LAX,"Los Angeles, CA",BNA,"Nashville, TN",
+LAX,"Los Angeles, CA",RNO,"Reno, NV",
+LAX,"Los Angeles, CA",SAT,"San Antonio, TX",
+LAX,"Los Angeles, CA",LIT,"Little Rock, AR",
+LAX,"Los Angeles, CA",TUS,"Tulsa, OK",
+LAX,"Los Angeles, CA",ABQ,"Albuquerque, NM",
+LAX,"Los Angeles, CA",FSD,"Sioux Falls, SD",
+LAX,"Los Angeles, CA",EGE,"Vail, CO",
+LAX,"Los Angeles, CA",ELP,"El Paso, TX",
+LAX,"Los Angeles, CA",EUG,"Eugene, OR",
+LAX,"Los Angeles, CA",XNA,"Fayetteville, AR",
+LAX,"Los Angeles, CA",FAT,"Fresno, CA",
+LAX,"Los Angeles, CA",HNL,"Honolulu, HI",
+LAX,"Los Angeles, CA",IND,"Indianapolis, IN",
+LAX,"Los Angeles, CA",OGG,"Kahului, HI",
+LAX,"Los Angeles, CA",MEM,"Memphis, TN",
+LAX,"Los Angeles, CA",OKC,"Oklahoma City, OK",
+LAX,"Los Angeles, CA",PSP,"Palm Springs, CA",
+LAX,"Los Angeles, CA",SJC,"San Jose, CA",
+LAX,"Los Angeles, CA",SBP,"San Luis Obispo, CA",
+LAX,"Los Angeles, CA",GRR,"Grand Rapids, MI",
+LAX,"Los Angeles, CA",HDN,"Hayden, CO",
+LAX,"Los Angeles, CA",BZN,"Bozeman, MT",
+LAX,"Los Angeles, CA",SBA,"Santa Barbara, CA",
+LAX,"Los Angeles, CA",TUL,"Tulsa, OK",
+LAX,"Los Angeles, CA",ICT,"Wichita, KS",
+LAX,"Los Angeles, CA",JAX,"Jacksonville, FL",
